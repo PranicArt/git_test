@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-30T20:28:12.033Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="TrNB1llJw8vIIlim4_2V" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-30T20:32:15.464Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="lD8cIExVBKriCW3oFtON" version="14.5.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -18,7 +18,7 @@
         <mxCell id="iOAk-kfpn2dNRzRrJEiJ-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="iOAk-kfpn2dNRzRrJEiJ-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iKagPwj4KWDtb09v4SmO-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.638;entryY=-0.022;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="iOAk-kfpn2dNRzRrJEiJ-10" edge="1">
+        <mxCell id="4v33i4PCSDJ1lri7sxs9-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="iOAk-kfpn2dNRzRrJEiJ-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="input=0?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -34,10 +34,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="store number" style="rectangle=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="310" y="80" width="100" height="30" as="geometry" />
+          <mxGeometry x="280" y="80" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="end" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="410" width="50" height="30" as="geometry" />
+          <mxGeometry x="405" y="400" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iOAk-kfpn2dNRzRrJEiJ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -49,7 +49,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iOAk-kfpn2dNRzRrJEiJ-10" value="&lt;font size=&quot;1&quot;&gt;Print highest, print smallest, and print the average number&lt;/font&gt;" style="rectangle=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="130" y="310" width="140" height="60" as="geometry" />
+          <mxGeometry x="245" y="300" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iOAk-kfpn2dNRzRrJEiJ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iOAk-kfpn2dNRzRrJEiJ-20" target="WIyWlLk6GJQsqaUBKTNV-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -58,7 +58,7 @@
           <mxGeometry x="125" y="70" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iOAk-kfpn2dNRzRrJEiJ-26" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="180" y="270" width="40" height="20" as="geometry" />
+          <mxGeometry x="180" y="282.5" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iOAk-kfpn2dNRzRrJEiJ-30" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="180" y="140" width="40" height="20" as="geometry" />
@@ -79,13 +79,13 @@
           <mxGeometry x="440" y="100" width="120" height="25" as="geometry" />
         </mxCell>
         <mxCell id="iOAk-kfpn2dNRzRrJEiJ-35" value="store smallest number" style="rectangle=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="290" y="240" width="80" height="40" as="geometry" />
+          <mxGeometry x="290" y="242.5" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iOAk-kfpn2dNRzRrJEiJ-39" value="calculate average number" style="rectangle=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="500" y="242.5" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="iOAk-kfpn2dNRzRrJEiJ-40" value="store highest number" style="rectangle=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="390" y="250" width="90" height="40" as="geometry" />
+          <mxGeometry x="390" y="242.5" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
